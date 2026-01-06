@@ -1,7 +1,7 @@
 # 📊 Loan Eligibility Prediction — Machine Learning Project
 
 This repository contains a **machine learning-based Loan Eligibility Prediction System** built as part of my **CodeAlpha Machine Learning Internship**.  
-The system predicts whether a loan application will be approved based on applicant details using classification models.
+The system predicts whether a loan application will be approved based on applicant details using classification models.   
 
 ---
 
@@ -26,21 +26,20 @@ Loan eligibility prediction helps financial institutions determine if a customer
 ---
 
 ## 🛠️ Technologies Used
-
+ 
 - Python  
-- Pandas & NumPy  
+- Pandas & NumPy   
 - Scikit-learn (classification models)  
 - Joblib / Pickle (model saving)  
 - Optional: visualization libraries like Matplotlib  
 
 Scikit-learn provides a wide range of model training and evaluation utilities for classification tasks. :contentReference[oaicite:1]{index=1}
 
----
-
-## ▶️ How to Run
+---
+## ▶️ How to Run.  
 
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/Kushal-29/loan_eligibility.git
 cd loan_eligibility
-
+    
