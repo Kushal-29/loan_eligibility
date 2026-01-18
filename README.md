@@ -27,15 +27,16 @@ Loan eligibility prediction helps financial institutions determine if a customer
 
 ## 🛠️ Technologies Used
  
-- Python  
-- Pandas & NumPy   
+- Python
+- Pandas & NumPy
 - Scikit-learn (classification models)  
 - Joblib / Pickle (model saving)  
 - Optional: visualization libraries like Matplotlib  
 
 Scikit-learn provides a wide range of model training and evaluation utilities for classification tasks. :contentReference[oaicite:1]{index=1}
 
----
+---
+
 ## ▶️ How to Run.  
 
 ### 1️⃣ Clone the repository
@@ -43,3 +44,4 @@ Scikit-learn provides a wide range of model training and evaluation utilities fo
 git clone https://github.com/Kushal-29/loan_eligibility.git
 cd loan_eligibility
     
+
