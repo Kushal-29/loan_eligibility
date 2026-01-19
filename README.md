@@ -13,13 +13,13 @@ Loan eligibility prediction helps financial institutions determine if a customer
 
 ## 🚀 Features
 
-✔️ Data loading and preprocessing  
-✔️ Feature selection and cleaning  
-✔️ Training multiple ML models  
+✔️ Data loading and preprocessing
+✔️ Feature selection and cleaning
+✔️ Training multiple ML models
 ✔️ Model evaluation (accuracy, precision, recall, F1-score)  
-✔️ Final model selection and saving  
-✔️ Prediction on new sample inputs  
-✔️ Optional visualization support  
+✔️ Final model selection and saving
+✔️ Prediction on new sample inputs
+✔️ Optional visualization support
 
 ---
 
