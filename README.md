@@ -9,22 +9,22 @@ This project demonstrates an end-to-end ML workflow used in real-world financial
 
 Loan approval is a critical process for financial institutions to manage credit risk.  
 This project uses historical loan application data to train classification models that predict whether an applicant is **Eligible** or **Not Eligible** for a loan.
-
+ 
 The focus is on:
 - Data preprocessing
 - Exploratory Data Analysis (EDA)
 - Feature engineering
 - Model training and evaluation
 
----
+--- 
 
-## Problem Statement
+## Problem Statement 
 
 Manual loan approval processes are time-consuming and prone to bias.  
 An automated ML-based system can help institutions:
-- Reduce risk
+- Reduce risk 
 - Improve decision accuracy
-- Speed up approval workflows
+- Speed up approval workflows 
 
 This project simulates such a system using supervised learning techniques.
 
