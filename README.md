@@ -17,20 +17,20 @@ The focus is on:
 - Model training and evaluation
 
 --- 
-
+   
 ## Problem Statement 
 
 Manual loan approval processes are time-consuming and prone to bias.  
 An automated ML-based system can help institutions:
-- Reduce risk 
+- Reduce risk  
 - Improve decision accuracy
 - Speed up approval workflows 
 
 This project simulates such a system using supervised learning techniques.
 
----
+---  
 
-## Key Features
+## Key Features 
 
 - Data cleaning and preprocessing
 - Exploratory Data Analysis (EDA)
